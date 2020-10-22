@@ -82,6 +82,3 @@ Applied Random Forest on Different Featurization of Data viz. BOW(uni-gram), tfi
 Used both Grid Search with random 30 points for getting the best max_depth, learning rate and n_estimators.
 Evaluated the test data on various performance metrics like accuracy, f1-score, precision, recall,etc. also plotted Confusion matrix using seaborne
 Plotted world cloud of feature importance recieved from the RF and GBDT classifier
-# Conclusions:
-TFIDF Featurization in Random Forest (BASE-LEARNERS=400) with random search gave the best results .
-TFIDF Featurization in GBDT (BASE-LEARNERS=400) gave the best results.
