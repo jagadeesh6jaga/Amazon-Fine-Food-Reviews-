@@ -83,5 +83,5 @@ Used both Grid Search with random 30 points for getting the best max_depth, lear
 Evaluated the test data on various performance metrics like accuracy, f1-score, precision, recall,etc. also plotted Confusion matrix using seaborne
 Plotted world cloud of feature importance recieved from the RF and GBDT classifier
 # Conclusions:
-TFIDF Featurization in Random Forest (BASE-LEARNERS=10) with random search gave the best results with F1-score of 0.857.
-TFIDF Featurization in GBDT (BASE-LEARNERS=275, DEPTH=10) gave the best results with F1-score of 0.8708.
+TFIDF Featurization in Random Forest (BASE-LEARNERS=10) with random search gave the best results .
+TFIDF Featurization in GBDT (BASE-LEARNERS=400, DEPTH=10) gave the best results.
